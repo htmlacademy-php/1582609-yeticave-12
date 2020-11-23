@@ -1,7 +1,7 @@
 # Личный проект «YetiCave»
 
 * Студент: [Владислав Шамов](https://up.htmlacademy.ru/php/12/user/1582609).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Шершнев](https://htmlacademy.ru/profile/shv_sergey).
 
 ---
 
